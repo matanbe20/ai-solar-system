@@ -1,0 +1,1 @@
+A solar system basic simulation, built entirely with ChatGPT o3-mini
